@@ -19,7 +19,10 @@
         if(isset($resultado) && $resultado != '0'){;	
                 echo "Seu IMC é: ".$resultado;               
         }else{
-                echo '<h1>Por favor, utilize apenas numeros!</h1>';	
+                echo '<h1><br><br>Por favor, utilize apenas numeros!</h1>';	
         }    
-    ?>
+?>
+<br>
+<b><a href="indeximc.html"><b> Voltar ! </b></a></b>
+
 </html>
